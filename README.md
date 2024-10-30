@@ -2,6 +2,11 @@
 
 A lightweight CRUD (Create, Read, Update, Delete) application built with Python Flask backend and JavaScript/Bootstrap frontend.
 
+## Diagrams
+Example architecture and request/response flow diagrams for a RESTful application deployed to a server with reverse proxy.
+![architecture diagram](architecture.png)
+![request/response flow diagram](requestresponseflow.png)
+
 ## Features
 
 - RESTful API backend using Flask
